@@ -4,7 +4,7 @@ ENV HERMES_DASHBOARD=1
 
 VOLUME ["/opt/data"]
 
-COPY config.yaml /opt/
+COPY config.yml /opt/
 
 EXPOSE 8642 9119
 
