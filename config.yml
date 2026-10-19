@@ -406,7 +406,7 @@ moa:
   max_tokens: 4096
   reference_models:
     - provider: openai-codex
-      model: gpt-5.5
+      model: gpt-5.2
       enabled: false
     - provider: openrouter
       model: deepseek/deepseek-v4-pro
